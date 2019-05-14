@@ -72,12 +72,11 @@ p {
 }
 
 .top-nav {
-    padding-top: 14px;
-    padding-bottom: 14px;  
+    padding: 20px;  
 }
 
 .top-nav a {
-    padding: 29px; 
+    padding: 23px;
     text-decoration: none; 
     color: black; 
 }
