@@ -1,7 +1,7 @@
 # Project Details
 
 <b>Objectives:</b><br />
-Student should demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved + create an additional web page that will be linked to from a navigation that will be built.
+Student should demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved + create an additional web page that will be linked to from a navigation that will be built.  Additionally, the project should follow best practices and produce clean and professional results.
 
 *Completed all Minimal Viable Project Tasks*
 
