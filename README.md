@@ -1,3 +1,33 @@
+# Project Details
+
+<b>Objectives:</b><br />
+Student should demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved + create an additional web page that will be linked to from a navigation that will be built.
+
+*Completed all Minimal Viable Project Tasks*
+
+<strong>Stretch Tasks:</strong><br />
+- ...
+
+
+<img src="" alt=""> <img src="" alt=""> <img src="" alt="">
+
+
+# Project Links
+
+<a href="" target=_blank> link </a>
+
+<a href="" target=_blank> link </a>
+
+<a href="" target=_blank> link </a>
+
+<a href="" target=_blank> link </a>
+
+
+# Contact Me
+<a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
+<br /><br />
+
+
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
