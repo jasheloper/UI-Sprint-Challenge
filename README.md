@@ -5,7 +5,7 @@ Student should demonstrate proficiency by creating a multi page website that has
 
 *Completed all Minimal Viable Project Tasks*
 
-<strong>Stretch Tasks:</strong><br />
+<strong>Stretch Goals Completed:</strong><br />
 - Build a page of your choosing from the navigation items. Come up with content and images that fit the theme.
 - Introduce CSS animations to your site.
 - Build a contact page and create a form with several inputs of your choosing.
