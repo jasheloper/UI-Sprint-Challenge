@@ -244,10 +244,10 @@ header {
     color: rgb(207, 148, 19);  
 }
 
-.blog-intro img {
+ .blog-intro img {
     margin: auto; 
     width: 80%;
-    border-radius: 60px; 
+    border-radius: 60px;  
 }
 
 .blog-intro p {
