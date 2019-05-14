@@ -173,6 +173,62 @@ header {
     padding-right: 0;
 }
 
+
+/* About Page */
+
+.about-page {
+    line-height: 1.5;
+}
+
+.header-about {
+    border-bottom: 1px dashed black;  
+}
+
+.header-about img {
+    box-sizing: border-box;
+    padding-bottom: 20px; 
+}
+
+.about-section {
+    margin: auto; 
+}
+
+.about-info {
+    display: flex; 
+    margin: auto; 
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    padding: 5px; 
+}
+
+.about-item {
+    margin: 20px; 
+    width: 355px;
+    box-sizing: border-box; 
+    padding: 10px; 
+    border-bottom: 1px dashed black; 
+}
+
+.about-item img {
+    width: 100%;
+} 
+
+
+.about-item button {
+    width: 140px; 
+    height: 50px; 
+    padding: 15px;
+    border-radius: 12px;
+    border: 2px solid black; 
+    font-size: 16px;
+}
+
+.work-together {
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+
+
 footer {
     width: 100%;
     background: black;
