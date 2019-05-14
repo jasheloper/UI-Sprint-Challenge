@@ -20,7 +20,7 @@ Student should demonstrate proficiency by creating a multi page website that has
 
 <a href="http://jasheletillman.me/UI-Sprint-Challenge/about.html" target=_blank> About page </a>
 
-<a href="http://jasheletillman.me/UI-Sprint-Challenge/blog.html target=_blank> Blog page </a>
+<a href="http://jasheletillman.me/UI-Sprint-Challenge/blog.html" target=_blank> Blog page </a>
 
 
 
