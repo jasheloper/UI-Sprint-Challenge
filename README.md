@@ -30,18 +30,28 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. <strong>If you were to describe semantic HTML to the next cohort of students, what would you say?</strong>
 
+<i>Answer here. </i>
+
 2. <strong>Name two big differences between ```display: block;``` and ```display: inline;```.</strong>
+
+<i>Answer here. </i>
 
 3. <strong>What are the 4 areas of the box model?</strong>
 
+<i>Answer here. </i>
+
 4. <strong>While using flexbox, what axis does the following property work on: ```align-items: center```?</strong>
 
-5. <strong>Explain why git is valuable to a team of developers.</strong>
-<br /><br />
+<i>Answer here. </i>
 
+5. <strong>Explain why git is valuable to a team of developers.</strong>
+
+<i>Answer here. </i>
+
+<br />
 
 # Contact Me
-<a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
+<a href="http://jasheletillman.me/" target=_blank>Official Portfolio</a> • <a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
 <br /><br />
 
 

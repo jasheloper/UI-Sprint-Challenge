@@ -229,6 +229,138 @@ header {
 }
 
 
+/* Blog Page */
+
+.blog-intro {
+    margin: auto; 
+    box-sizing: border-box; 
+    width: 80%;
+}
+
+.blog-intro h1 {
+    padding-top: 30px; 
+    text-align: center; 
+    font-size: 50px;
+    color: rgb(207, 148, 19);  
+}
+
+.blog-intro img {
+    margin: auto; 
+    width: 80%;
+    border-radius: 60px; 
+}
+
+.blog-intro p {
+    line-height: 3;
+    text-align: center; 
+    color: rgb(48, 47, 47); 
+}
+
+.section-title {
+    box-sizing: border-box;
+    padding-top: 20px; 
+    font-size: 40px;
+    text-align: center;
+    border-bottom: 3px solid black; 
+}
+
+.section-popular-title {
+    font-weight: bold;
+    text-transform: uppercase; 
+    color: rgb(204, 53, 136); 
+}
+
+.popular-posts {
+    display: flex; 
+}
+
+.a-popular-post {
+    margin: 10px; 
+    padding: 8px; 
+    box-sizing: border-box;
+    width: 400px;
+}
+
+.a-popular-post img {
+    padding: 7px; 
+    width: 100%;
+    border: 1px solid rgb(172, 170, 170); 
+    border-radius: 80px; 
+}
+
+.a-popular-post h3 {
+    font-size: 30px; 
+    text-align: center; 
+}
+
+.a-popular-post p {
+    line-height: 2.3;
+}
+
+.a-popular-post button {
+    width: 200px;
+    height: 50px; 
+    padding: 5px; 
+    background-color: teal;
+    font-size: 20px; 
+    color: rgb(226, 232, 232);
+    border-radius: 70px; 
+}
+
+.section-latest-title {
+    padding-top: 40px; 
+    text-transform: uppercase; 
+    color: rgb(50, 49, 49); 
+    border-bottom: 1px dashed rgb(50, 49, 49); 
+}
+
+.latest-posts {
+    display: flex; 
+    flex-wrap: wrap;
+    padding: 1px; 
+}
+
+.new-post {
+    margin: 5px; 
+    width: 48%;
+    padding-bottom: 20px; 
+}
+
+.new-post img {
+    width: 100%;
+    border: 2px solid rgb(117, 141, 11); 
+    border-radius: 70px; 
+}
+
+.new-post h3 {
+    color: rgba(122, 146, 17, 0.87); 
+    font-size: 34px; 
+}
+
+.new-post p {
+    padding: 5px; 
+    line-height: 2.3;
+}
+
+.new-post button {
+    width: 200px;
+    height: 50px; 
+    padding: 5px; 
+    background-color: rgba(149, 187, 14, 0.527);
+    font-size: 20px; 
+    color: rgb(255, 255, 255);
+    border-radius: 70px; 
+}
+
+.write-for-us {
+    box-sizing: border-box;
+    padding: 20px; 
+}
+
+.write-for-us p {
+    line-height: 2;
+}
+
 footer {
     width: 100%;
     background: black;
