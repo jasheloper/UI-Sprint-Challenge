@@ -23,6 +23,24 @@ Student should demonstrate proficiency by creating a multi page website that has
 <a href="" target=_blank> link </a>
 
 
+# Project Self-Study Questions
+
+Demonstrate your understanding of this week's concepts by answering the following free-form questions.
+
+Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
+
+1. <strong>If you were to describe semantic HTML to the next cohort of students, what would you say?</strong>
+
+2. <strong>Name two big differences between ```display: block;``` and ```display: inline;```.</strong>
+
+3. <strong>What are the 4 areas of the box model?</strong>
+
+4. <strong>While using flexbox, what axis does the following property work on: ```align-items: center```?</strong>
+
+5. <strong>Explain why git is valuable to a team of developers.</strong>
+<br /><br />
+
+
 # Contact Me
 <a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
 <br /><br />
