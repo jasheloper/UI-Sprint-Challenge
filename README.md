@@ -11,7 +11,7 @@ Student should demonstrate proficiency by creating a multi page website that has
 - Build a contact page and create a form with several inputs of your choosing.
 
 
-<img src="" alt=""> <img src="" alt=""> <img src="" alt="">
+<img src="img/index.png" alt="home"> <img src="img/about.png" alt="about"> <img src="img/contact.png" alt="contact">    <img src="img/blog.png" alt="blog">    
 
 
 # Project Links
@@ -21,6 +21,8 @@ Student should demonstrate proficiency by creating a multi page website that has
 <a href="http://jasheletillman.me/UI-Sprint-Challenge/about.html" target=_blank> About page </a>
 
 <a href="http://jasheletillman.me/UI-Sprint-Challenge/blog.html" target=_blank> Blog page </a>
+
+<a href="http://jasheletillman.me/UI-Sprint-Challenge/contact.html" target=_blank> Contact Page </a>
 
 
 
