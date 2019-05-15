@@ -11,15 +11,15 @@ Student should demonstrate proficiency by creating a multi page website that has
 - Build a contact page and create a form with several inputs of your choosing.
 
 
-<img src="img/navigationscreen.png" alt="">  
+<a href="http://jasheletillman.me/UI-Sprint-Challenge/" target=_blank><img src="img/navigationscreen.png" alt=""> </a>
 
-<img src="img/indexscreen.png" alt="">
+<a href="http://jasheletillman.me/UI-Sprint-Challenge/" target=_blank><img src="img/indexscreen.png" alt=""></a>
 
-<img src="img/aboutscreen.png" alt=""> 
+<a href="http://jasheletillman.me/UI-Sprint-Challenge/about.html" target=_blank><img src="img/aboutscreen.png" alt=""> </a>
 
-<img src="img/blogscreen.png" alt=""> 
+<a href="http://jasheletillman.me/UI-Sprint-Challenge/blog.html" target=_blank><img src="img/blogscreen.png" alt=""> </a>
 
- <img src="img/contactscreen.png" alt=""> 
+ <a href="http://jasheletillman.me/UI-Sprint-Challenge/contact.html" target=_blank><img src="img/contactscreen.png" alt=""> </a>
 
 
 
