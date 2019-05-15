@@ -11,7 +11,13 @@ Student should demonstrate proficiency by creating a multi page website that has
 - Build a contact page and create a form with several inputs of your choosing.
 
 
-<img src="img/index.png" alt="home"> <img src="img/about.png" alt="about"> <img src="img/contact.png" alt="contact">    <img src="img/blog.png" alt="blog">    
+<img src="img/navigationscreen.png" alt="">  
+
+<img src="img/indexscreen.png" alt=""> <img src="img/contactscreen.png" alt=""> 
+<img src="img/aboutscreen.png" alt=""> <img src="img/blogscreen.png" alt=""> 
+
+
+  
 
 
 # Project Links
