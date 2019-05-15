@@ -23,20 +23,6 @@ Student should demonstrate proficiency by creating a multi page website that has
 
 
 
-
-
-# Project Links
-
-<a href="http://jasheletillman.me/UI-Sprint-Challenge/" target=_blank> See this project live? </a>
-
-<a href="http://jasheletillman.me/UI-Sprint-Challenge/about.html" target=_blank> About page </a>
-
-<a href="http://jasheletillman.me/UI-Sprint-Challenge/blog.html" target=_blank> Blog page </a>
-
-<a href="http://jasheletillman.me/UI-Sprint-Challenge/contact.html" target=_blank> Contact Page </a>
-
-
-
 # Project Self-Study Questions
 
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
