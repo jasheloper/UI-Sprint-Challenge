@@ -13,11 +13,16 @@ Student should demonstrate proficiency by creating a multi page website that has
 
 <img src="img/navigationscreen.png" alt="">  
 
-<img src="img/indexscreen.png" alt=""> <img src="img/contactscreen.png" alt=""> 
-<img src="img/aboutscreen.png" alt=""> <img src="img/blogscreen.png" alt=""> 
+<img src="img/indexscreen.png" alt="">
+
+<img src="img/aboutscreen.png" alt=""> 
+
+<img src="img/blogscreen.png" alt=""> 
+
+ <img src="img/contactscreen.png" alt=""> 
 
 
-  
+
 
 
 # Project Links
