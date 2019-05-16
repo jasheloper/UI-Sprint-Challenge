@@ -372,6 +372,8 @@ header {
 .write-for-us {
     box-sizing: border-box;
     padding: 20px; 
+    text-align: center;
+    border-top: 1px dashed black;
 }
 
 .write-for-us p {
