@@ -320,6 +320,7 @@ header {
     padding: 5px; 
     background-color: teal;
     font-size: 20px; 
+    border: 1px solid white;
     color: rgb(226, 232, 232);
     border-radius: 70px; 
 }
@@ -365,6 +366,7 @@ header {
     padding: 5px; 
     background-color: rgba(149, 187, 14, 0.527);
     font-size: 20px; 
+    border: 1px solid white;
     color: rgb(255, 255, 255);
     border-radius: 70px; 
 }
