@@ -389,7 +389,6 @@ header {
 .contact-us {
     margin: auto; 
     width: 80%;
-    line-height: 1.2;
     color: rgb(57, 55, 55); 
 }
 
@@ -400,6 +399,7 @@ header {
 
 .contact-us p {
     padding-bottom: 40px; 
+    line-height: 2.8;
 }
 
 .form {
